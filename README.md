@@ -143,24 +143,4 @@ Assessment/
 - ✅ Training data generation
 - ✅ Extensible architecture
 
-## Assessment Questions Answered
-
-All 5 assessment questions are answered in `ASSESSMENT_RESPONSES.md`:
-
-1. ✅ Python Model + Flask - Implemented and validated
-2. ✅ PINN Understanding + Application - Implemented with detailed explanation
-3. ✅ Vertex AI Exposure / Understanding - Comprehensive response
-4. ✅ Motivation & Passion - Personal response
-5. ✅ Web Development Ownership - Experience and approach outlined
-
-## Notes
-
-- The thermal model matches Excel reference values within 0.01°C tolerance
-- PINN implementation is complete and ready for training
-- Flask API is production-ready with proper error handling
-- All code includes comprehensive comments and documentation
-
-## Contact
-
-For questions about this implementation, please refer to the code comments and `ASSESSMENT_RESPONSES.md`.
 
