@@ -1,7 +1,3 @@
-"""
-Thermal Model for Heat Sink Design
-Based on the step-by-step method from Thermal_Reference.pdf
-"""
 
 import numpy as np
 
