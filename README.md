@@ -4,7 +4,6 @@ This repository contains the complete solution for the Expert Thermal assessment
 1. Python thermal model implementation
 2. Flask-based REST API
 3. PINN (Physics-Informed Neural Network) approach
-4. Written responses to all assessment questions
 
 ## Files Overview
 
@@ -15,7 +14,6 @@ This repository contains the complete solution for the Expert Thermal assessment
 - **`requirements.txt`**: Python dependencies
 
 ### Documentation
-- **`ASSESSMENT_RESPONSES.md`**: Complete written responses to all 5 assessment questions
 - **`README.md`**: This file
 
 ### Utilities
