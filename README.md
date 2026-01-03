@@ -115,11 +115,7 @@ Assessment/
 ├── requirements.txt          # Dependencies
 ├── test_api.py               # API testing
 ├── read_excel.py             # Excel reader utility
-├── ASSESSMENT_RESPONSES.md   # Written responses
-├── README.md                  # This file
-├── 1. ET_Assessment_CSE.pdf  # Assessment questions
-├── 2. Thermal_Reference.pdf  # Thermal model reference
-└── 3. Heat_Sink_Design_Ref.xlsx  # Validation spreadsheet
+└── README.md                 # This file
 ```
 
 ## Key Features
